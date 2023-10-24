@@ -1,0 +1,3 @@
+ini adalah fitur untuk mencatat penyewaan mobil, 
+dalam mobil fitur ini user perlu menginputkan nama penyewa, plat mobil, 
+tanggal sewa, lama sewa dan nomor telpon, nanti program akan bisa mengkalkulasikan total biaya sewanya.
