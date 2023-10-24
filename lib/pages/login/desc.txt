@@ -1,0 +1,3 @@
+Deskripsi:
+Pada halaman login, Saya membuat form login yang terdapat form email, password dan login untuk melakukan submit.
+Pada halaman login juga terdapat logo aplikasi kami yaitu logo rental mobil.
