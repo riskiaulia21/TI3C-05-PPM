@@ -30,9 +30,9 @@ class MyApp extends StatelessWidget {
                 DataCell(Text('082238584400')),
               ]),
               DataRow(cells: [
-                DataCell(Text('Alice')),
-                DataCell(Text('30')),
-                DataCell(Text('San Francisco')),
+                DataCell(Text('02')),
+                DataCell(Text('Furqan')),
+                DataCell(Text('jsnsjsnjs')),
                 DataCell(Text('San Francisco')),
                 DataCell(Text('San Francisco')),
               ]),
