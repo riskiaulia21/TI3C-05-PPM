@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCp-izbOwilj_IqWIvYqEp_LQEajiOl6FI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>936972321217</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.rentalMobil</string>
+	<key>PROJECT_ID</key>
+	<string>rentalmobil-9b8ad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rentalmobil-9b8ad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:936972321217:ios:930a9bb1bd5d365d016f40</string>
+</dict>
+</plist>
